@@ -93,7 +93,7 @@ git --version
 ## Linux
 Installing Git on the Debian family of distributions can use the command:
 ```
-sudo apt install git
+![#f03c15] sudo apt install git
 ```
 or
 ```
